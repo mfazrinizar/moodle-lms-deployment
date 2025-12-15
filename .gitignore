@@ -1,0 +1,11 @@
+# Ignore actual environment variables
+.env
+
+# Ignore persistent data directories
+mariadb_data/
+moodle_data/
+moodledata_data/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
